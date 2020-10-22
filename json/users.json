@@ -1,0 +1,23 @@
+[   
+    {
+        "username":"Precious Kayili",
+        "languages":"JavaScript,HTML,CSS,PHP,Python",
+        "email":"preciouskayili@gmail.com",
+        "bio":"Loves to lorem ipsum at all times even in the day time.",
+        "img":"img/bg.jpg"
+    },
+    {
+        "username":"Daniel Toba",
+        "languages":"JavaScript,HTML,CSS,Python",
+        "email":"danieltoba@gmail.com",
+        "bio":"Loves to code and chat with karly at all times even in the day time.",
+        "img":"img/bg2.jpg"
+    },
+    {
+        "username":"Karly Divirgilo",
+        "languages":"None",
+        "email":"karly@gmail.com",
+        "bio":"Loves to code and chat with daniel at all times even in the day time.",
+        "img":"img/bg3.jpg"
+    }
+]

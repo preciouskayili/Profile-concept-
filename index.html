@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/mdb.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Profile</title>
+</head>
+<body>
+    <div class="navbar navbar-expand-sm navbar-dark bg-primary">
+        <a href="index.html" class="navbar-brand">Profile</a>
+    </div>
+    <div class="container m-5">
+        <div class="card mb-5">
+            <div class="card-body">
+                <form action="" class="d-block mx-auto">
+                    <input type="text" id="search" placeholder="Enter username" class="form-control" style="display:none;">
+                </form>
+            </div>
+        </div>
+        <button class="btn btn-primary btn-md" id="load" onclick="this.style.display = `none`">See all users</button>
+        <div class="row inner">
+            <span class="spinner-border mx-auto m-5" style="display: none;"></span>
+        </div>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
